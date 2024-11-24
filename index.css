@@ -41,7 +41,7 @@ text-align: center;
         width: 100%; /* Adjust to parent container */
         max-width: 600px; /* Limit the width */
         transition: transform 0.3s;
-        height: 550px; /* Let height adjust naturally */
+        height: 570px; /* Let height adjust naturally */
         margin: auto;
     }
     
