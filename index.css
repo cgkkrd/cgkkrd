@@ -41,7 +41,7 @@ text-align: center;
         width: 100%; /* Adjust to parent container */
         max-width: 600px; /* Limit the width */
         transition: transform 0.3s;
-        height: 590px; /* Let height adjust naturally */
+        height: 530px; /* Let height adjust naturally */
         margin: auto;
     }
     
@@ -63,7 +63,7 @@ text-align: center;
     }
     .grid > article img
     {
-    
+        height: 20px; 
         width: 90%; /* Responsive image width */
         max-width: 500px;
         border-radius: 10px;
